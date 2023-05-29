@@ -10,4 +10,4 @@
 
 ***
 
-* [What is Kubernetes?](what-is-kubernetes.md)
+* [Kubernetes](kubernetes.md)
