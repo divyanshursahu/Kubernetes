@@ -28,4 +28,4 @@ A **namespace** is a way for a Kubernetes user to organize many different cluste
 
 ## Kubernetes Cluster Architecture
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Kubernetes</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
