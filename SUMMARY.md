@@ -1,7 +1,8 @@
 # Table of contents
 
-* [Page 2](README.md)
+* [README.md](README.md)
 
 ## just a folder
 
+* [Page 1](just-a-folder/page-1.md)
 * [Page 3](just-a-folder/page-3.md)

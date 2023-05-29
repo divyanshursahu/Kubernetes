@@ -1,3 +1,3 @@
-# Page 2
+# README.md
 
-yug
+This repo is for Kubernetes notes
