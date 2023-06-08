@@ -7,3 +7,4 @@
 ## Configuration
 
 * [Config maps](configuration/config-maps.md)
+* [Resource request](configuration/resource-request.md)
